@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @FlyingRacoon51
+- 👀 I’m interested in Modding
+- 🌱 I’m currently learning C and Java
